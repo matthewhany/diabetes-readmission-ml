@@ -351,6 +351,13 @@ The production pipeline is packaged as a reusable bundle (`final_readmission_ens
 * **FastAPI Backend (`api.py`):** Exposes a high-performance RESTful `/predict` endpoint returning binary prediction, readmission probability, and individual model contributions.
 * **Streamlit UI (`app.py`):** Interactive web application enabling clinicians to input patient parameters and view risk assessments in real-time.
 
+## 🌐 Live Demo
+
+🔗 **Try the Streamlit application online:**
+https://diabetes-readmission-ml-ehkdw6rnzrjqcbfugsenjz.streamlit.app/
+
+The application allows users to enter patient information and receive a predicted 30-day readmission risk through an interactive web interface.
+
 ---
 
 ## 📁 Repository Structure
